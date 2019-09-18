@@ -1,0 +1,5 @@
+1.- Inicio 
+2.- Pedimos ingreso de numero
+3.- Capturamos numero
+4.- Mientras el valor sea <=100 continua
+5.- Fin
